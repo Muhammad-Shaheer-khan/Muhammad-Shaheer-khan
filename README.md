@@ -1,7 +1,7 @@
 ![logo](https://github.com/Muhammad-Shaheer-khan/Muhammad-Shaheer-khan/blob/main/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi Guys👋, Shaheer Here </h1>
 <h2 align="center">Connect me to do something nEw 👨🏻‍💻</h2>
-<h3 align="center">It`s my Software Engineering but also working cyberSecurity.</h3>
+<h3 align="center">It`s my Software Engineering but also working in cyberSecurity.</h3>
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
